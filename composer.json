@@ -2,7 +2,7 @@
   "name": "koraycicekciogullari/hydro-core",
   "description": "A hydro core",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "hydro",
     "core"
@@ -30,7 +30,6 @@
       "yoelpc4/laravel-cloudinary": "^2.1"
   },
   "require-dev": {
-      "barryvdh/laravel-ide-helper": "^2.10",
       "orchestra/testbench": "^4.0|^5.0|^6.0",
       "phpunit/phpunit": "^8.4|^9.0"
   },
