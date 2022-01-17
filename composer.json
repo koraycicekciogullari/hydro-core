@@ -2,6 +2,7 @@
   "name": "koraycicekciogullari/hydro-core",
   "description": "A hydro core",
   "license": "MIT",
+  "version": "1.0.3",
   "keywords": [
     "hydro",
     "core"
