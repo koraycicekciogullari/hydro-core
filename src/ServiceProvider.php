@@ -11,6 +11,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
         $this->publishes([
             self::CONFIG_PATH => config_path('hydro-core.php'),
         ], 'config');
+        $this->loadRoutesFrom(__DIR__ . '/Routes/core-route.php');
     }
 
     public function register()
