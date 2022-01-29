@@ -112,4 +112,5 @@ php artisan vendor:publish --provider="Spatie\MediaLibrary\MediaLibraryServicePr
 php artisan storage:link
 php artisan optimize
 php artisan migrate
+php artisan hydro:install
 ```
